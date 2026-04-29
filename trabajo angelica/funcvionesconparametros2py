@@ -1,0 +1,3 @@
+def multiplicar(a,b):
+  print(a*b)
+multiplicar(4,6)
